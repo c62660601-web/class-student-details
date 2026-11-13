@@ -234,7 +234,12 @@ void student_CHANDANA_R() {
 }
 
 void student_CHANDANA_S() {
-    printf("CHANDANA S is absent\n");
+     printf("USN:    4JN25CS045\n");
+    printf("NAME:   CHANDANA S\n");
+    printf("Email:  chandana@example.com\n");
+    printf("Phone:  7019142438\n");
+    printf("Adress: Shimoga, Karnataka\n");
+    printf("CHANDANA S is present\n");
 }
 
 void student_CHANDANA_S_H() {
